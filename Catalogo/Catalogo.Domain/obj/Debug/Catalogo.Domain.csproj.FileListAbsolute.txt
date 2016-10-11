@@ -1,0 +1,5 @@
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.Domain\bin\Debug\Catalogo.Domain.dll
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.Domain\bin\Debug\Catalogo.Domain.pdb
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.Domain\obj\Debug\Catalogo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.Domain\obj\Debug\Catalogo.Domain.dll
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.Domain\obj\Debug\Catalogo.Domain.pdb

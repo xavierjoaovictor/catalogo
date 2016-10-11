@@ -1,0 +1,14 @@
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\Catalogo.DataAccess.dll.config
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\Catalogo.DataAccess.dll
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\Catalogo.DataAccess.pdb
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\Catalogo.Domain.dll
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\Catalogo.Domain.pdb
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\obj\Debug\Catalogo.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\obj\Debug\Catalogo.DataAccess.dll
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\obj\Debug\Catalogo.DataAccess.pdb
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\log4net.dll
+C:\Users\ac\Desktop\Catalogo\Catalogo\Catalogo.DataAccess\bin\Debug\log4net.xml
